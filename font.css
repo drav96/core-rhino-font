@@ -1,0 +1,15 @@
+@font-face {
+  font-family: "Core Rhino";
+  src: url("CoreRhino35Light.woff2") format("woff2"),
+  url("CoreRhino35Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Core Rhino";
+  src: url("fonts/CoreRhino45Regular.woff2") format("woff2"),
+  url("fonts/CoreRhino45Regular.woff") format("woff");
+  font-weight: 400;
+  font-style: normal;
+}
